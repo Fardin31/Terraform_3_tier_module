@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../aws_3_tier_architecture"
+		},
+		{
+			"path": "../../../terraform_04"
+		}
+	],
+	"settings": {}
+}
